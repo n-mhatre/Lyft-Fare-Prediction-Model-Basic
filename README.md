@@ -1,8 +1,7 @@
 # **LYFT Fare Price Prediction**
-
-## **Objective**
-
 This project aims to develop a fare price prediction model for Uber and Lyft in the greater Boston area. The goal is to predict the fare price of a ride based on various attributes and features.
+
+![Project Image](img.png)
 
 ## **Data Analysis**
 
@@ -65,4 +64,3 @@ The project has successfully developed and evaluated fare price prediction model
 7. **Continuous Improvement**: Regularly update the model with new data to maintain accuracy and relevance.
 
 These steps will further refine the fare price prediction model, offering valuable insights for optimizing pricing strategies in ride-hailing services.
-\Row number: 20
